@@ -18,7 +18,19 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Just like this:
+
+application.js:
+
+```
+//= require sweet-alert
+```
+
+application.css:
+
+```
+ *= require sweet-alert
+```
 
 ## Contributing
 

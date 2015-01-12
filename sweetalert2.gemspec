@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Kyle Montag"]
   spec.email         = ["thekylemontag@gmail.com"]
   spec.summary       = %q{SweetAlert 2 for Rails projects}
-  spec.homepage      = "www.thekylemontag.com"
+  spec.homepage      = "http://www.thekylemontag.com"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)

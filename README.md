@@ -1,6 +1,6 @@
 # Sweetalert2
 
-TODO: Write a gem description
+Rails Gem for [SweetAlert2](https://github.com/limonte/sweetalert2)
 
 ## Installation
 

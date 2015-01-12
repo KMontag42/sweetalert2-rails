@@ -1,6 +1,8 @@
-# Sweetalert2
+# SweetAlert2
 
 Rails Gem for [SweetAlert2](https://github.com/limonte/sweetalert2)
+
+If there are any issues, post them here. I am very active on GitHub.
 
 ## Installation
 

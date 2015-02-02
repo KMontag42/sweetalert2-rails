@@ -25,13 +25,13 @@ Just like this:
 application.js:
 
 ```
-//= require sweet-alert
+//= require sweetalert2
 ```
 
 application.css:
 
 ```
- *= require sweet-alert
+ *= require sweetalert2
 ```
 
 ## Contributing

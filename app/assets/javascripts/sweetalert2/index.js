@@ -1,1 +1,1 @@
-//= require ./sweetalert2.min
+//= require ./sweetalert2.all.min
